@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dirt"
+    },
+    "Y": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+    "item": "grasscolors:light_gray_earth",
+    "count": 8
+  }
+}

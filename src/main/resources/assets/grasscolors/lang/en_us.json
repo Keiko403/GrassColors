@@ -1,0 +1,20 @@
+{
+  "itemGroup.grasscolors": "Grass Colors",
+
+  "block.grasscolors.red_earth": "Red Earth",
+  "block.grasscolors.blue_earth": "Blue Earth",
+  "block.grasscolors.lime_earth": "Lime Earth",
+  "block.grasscolors.yellow_earth": "Yellow Earth",
+  "block.grasscolors.light_gray_earth": "Light Gray Earth",
+  "block.grasscolors.light_blue_earth": "Light Blue Earth",
+  "block.grasscolors.orange_earth": "Orange Earth",
+  "block.grasscolors.green_earth": "Green Earth",
+  "block.grasscolors.black_earth": "Black Earth",
+  "block.grasscolors.white_earth": "White Earth",
+  "block.grasscolors.gray_earth": "Gray Earth",
+  "block.grasscolors.cyan_earth": "Cyan Earth",
+  "block.grasscolors.pink_earth": "Pink Earth",
+  "block.grasscolors.magenta_earth": "Magenta Earth",
+  "block.grasscolors.brown_earth": "Brown Earth",
+  "block.grasscolors.purple_earth": "Purple Earth"
+}
